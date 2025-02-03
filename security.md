@@ -9,7 +9,7 @@
    ## Before:
    ![image](https://github.com/user-attachments/assets/318bec5b-64bf-4173-8b21-f44200987c4d)
    ## After:
-   ![image](https://github.com/user-attachments/assets/30c1456b-7365-4041-ba6c-c84b9ebdc19d)
+   ![image](https://github.com/user-attachments/assets/1fed41ac-46b3-422b-ab43-6c128c9b68ba)
 
 
 2. Magnesium.py -> The index was out of the range for for num levels, so we had to subtract the num levels by 1 each time
