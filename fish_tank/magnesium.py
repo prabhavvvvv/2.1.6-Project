@@ -12,7 +12,7 @@ def monitor():
     num_levels = len(mag_levels)
     if (current < mag_levels[0]):
       mesg = "Magnesium level too low!"
-    elif (current > mag_levels[num_levels]):
+    elif (current > mag_levels[num_levels - 1]):
       mesg = "Magnesium level too high!"
     
   except:
